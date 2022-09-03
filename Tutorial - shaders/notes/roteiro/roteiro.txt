@@ -1,0 +1,8 @@
+
+introducao
+sobre shaders
+linguagem diferente
+funcoes básicas
+como usar
+alterando as cores
+preto e branco
