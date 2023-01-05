@@ -1,8 +1,57 @@
 
-introducao
-sobre shaders
-linguagem diferente
-funcoes básicas
-como usar
-alterando as cores
-preto e branco
+
+
+
+
+
+
+=========================================
+
+	O que sao shaders
+	Linguagem diferente - GLSL
+
+=========================================
+
+	Criando o programa de shader
+
+	// tipos de dados
+	Atributes	- do OpenGl pro vertex shader
+	Varyings	- do vertex pro fragment
+	Uniforms	- do GML pro GLSL
+	
+	// tipos de variáveis
+	float
+	int
+	vec
+	bool
+	sampler2D
+
+	// coordenadas uv
+	v_vTexcoord
+	v_vColour
+	
+	// funcoes
+	texture2D
+
+=========================================
+
+	// usando shader no gm
+	Shader set()
+	Shader reset()
+
+=========================================
+
+	Alterando as cores
+	Preto e branco - (0.299, 0.587, 0.114)
+
+=========================================
+
+
+
+
+
+
+
+
+
+
