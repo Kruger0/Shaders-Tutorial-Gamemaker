@@ -1,16 +1,16 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "rm_teste",
+  "name": "rm_test",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_B3EFE9","path":"rooms/rm_teste/rm_teste.yy",},
-    {"name":"inst_10D3BB7D","path":"rooms/rm_teste/rm_teste.yy",},
-    {"name":"inst_29468C83","path":"rooms/rm_teste/rm_teste.yy",},
-    {"name":"inst_751B51B","path":"rooms/rm_teste/rm_teste.yy",},
+    {"name":"inst_B3EFE9","path":"rooms/rm_test/rm_test.yy",},
+    {"name":"inst_10D3BB7D","path":"rooms/rm_test/rm_test.yy",},
+    {"name":"inst_29468C83","path":"rooms/rm_test/rm_test.yy",},
+    {"name":"inst_751B51B","path":"rooms/rm_test/rm_test.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -35,10 +35,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 720,
+    "Height": 180,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 1280,
+    "Width": 320,
   },
   "sequenceId": null,
   "views": [
